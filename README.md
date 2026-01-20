@@ -1,0 +1,1 @@
+This project is a simple Python program that analyzes student marks using basic Python concepts and NumPy. It takes marks as input, stores them in a list and a NumPy array, calculates the total and average marks, and assigns grades using conditional statements. The project is designed for beginners and follows only fundamental Python and NumPy topics as per academic guidelines.
